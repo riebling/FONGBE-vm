@@ -9,8 +9,8 @@ Also assume you've cloned this GitHub repository into a local folder and have th
 and Vagrantfile in the working directory.
 
  * Run the shell command `vagrant up`
- * Watch lots of output as Vagrant provisions the virtual machine
+ * Watch [lots of output](https://github.com/riebling/FONGBE-vm/wiki/vagrant-up-output) as Vagrant provisions the virtual machine
  * When it finishes, assuming it succeeded, ssh into the VM with `vagrant ssh`
  * change to the FONGBE folder in the home directory - `cd FONGBE`
  * Run the experiment - `./run.sh`
- * Watch lots of output and see scores at the end
+ * Watch [lots of output](https://github.com/riebling/FONGBE-vm/wiki/sample-output) and see scores at the end
